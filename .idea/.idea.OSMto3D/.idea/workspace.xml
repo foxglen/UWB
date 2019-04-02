@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75af1365-717e-453e-a155-bc4524e23024" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Resources/bench D.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OSMto3D/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OSMto3D/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/Bricks Texture 15.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/Bricks Texture 15.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/BuildingTextures/Materials/bt5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/fenceMaterial.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Resources/fenceMaterial.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/mapGeneration.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/mapGeneration.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Legend.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Legend.docx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T1/V1_T1_S6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Mats/T2/V1_T2_S6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model/V1 Collider.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model/V1 Collider.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model/V1_T1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model/V1_T1.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model/V1_T2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Model/V1_T2.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T1/V1_T1_S6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Prefab/T2/V1_T2_S6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Scene V1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/Scene V1.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S1/V1_T1_S1_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S2/V1_T1_S2_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S3/V1_T1_S3_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S4/V1_T1_S4_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S5/V1_T1_S5_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T1/S6/V1_T1_S6_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S1/V1_T2_S1_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S2/V1_T2_S2_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S3/V1_T2_S3_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S4/V1_T2_S4_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S5/V1_T2_S5_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_AO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_AO.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_Albedo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_Albedo.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_MetalGloss.tga" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_MetalGloss.tga.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_Normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/V1/TextureSets/T2/S6/V1_T2_S6_Normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/2-1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/2-1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/3-1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/3-1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/5.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/5.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/6.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/6.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/7.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/7.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/8.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/8.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/9.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/9.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/01 (15).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/01 (15).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/03 (8).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/03 (8).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/03 (9).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/03 (9).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/05 (8).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/05 (8).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/05 (9).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/05 (9).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/06 (7).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/06 (7).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/07 (6).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/07 (6).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/4-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/4-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/Wall.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/Wall.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b1-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b1-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b12.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b12.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b2-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b2-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b3-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b3-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b3-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b3-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4-3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4-3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b5-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b5-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b6-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b6-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b7-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b7-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b7.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b7.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b87.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b87.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b9-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b9-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b9-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b9-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b9.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/b9.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/c3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/c3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/depositphotos_8483461-Seamless-pattern-resembling-glass-windows-on-a-modern-building.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/depositphotos_8483461-Seamless-pattern-resembling-glass-windows-on-a-modern-building.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/h2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/h2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/i2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/i2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/lambert1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/lambert1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/m2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/m2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/n2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/n2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/orange.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/orange.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/v2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/v2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/v4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/v4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/x2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/x2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/z2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/Materials/z2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/p5-4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/p5-4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/p5-8.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Buildings/p5-8.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/05 (8).mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/05 (8).mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/43.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/43.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/Aircos0005_240.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/Aircos0005_240.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/airduct_grate_02b.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/airduct_grate_02b.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/d1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/d1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/d3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/d3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/eeee.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/eeee.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/lambert1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/lambert1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p1-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p1-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p1-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p1-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p3-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p3-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p33.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p33.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-1.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-1.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-10.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-10.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-11.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-11.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-12.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-12.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-13.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-13.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-2.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-2.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-3.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-3.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-4.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-4.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-5.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-5.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-6.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-6.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-7.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-7.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-8.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-8.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-9.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/p5-9.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/photo_2016-05-15_10-21-39.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/photo_2016-05-15_10-21-39.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/red.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/red.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/sadsadsadasd.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/Materials/sadsadsadasd.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p1-1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p1-1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-5.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-5.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-6.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-6.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-7.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-7.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-8.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p3-8.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p4-1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p4-1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p4-2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p4-2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p4.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p4.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-1.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-1.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-2.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-2.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-3.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-3.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-5.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-5.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-6.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-6.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-7.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Models/Roof/p5-7.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/14.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/14.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/3.1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/3.1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Buildings/7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/14.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/14.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/15.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/15.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/16.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/16.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/17.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/17.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/4.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/4.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/5.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/5.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/6.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/6.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/7.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/7.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/8.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/8.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/9.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/9.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe/Pipe_1.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe/Pipe_1.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe/Pipe_2.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe/Pipe_2.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe/Pipe_3.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Prefabs/Roof/Pipe/Pipe_3.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Scenes.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Scenes/Sample.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Scenes/Sample.unity.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/4-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/4-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Buildings/9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Lensflare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Lensflare/Sun.flare" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Lensflare/Sun.flare.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Lensflare/Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Lensflare/Textures/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Lensflare/Textures/0.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p1-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p1-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p2.PNG.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p5-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p5-1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Roof/p5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Wall.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WhiteCity/Textures/Wall.png.meta" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="167202836">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="6" />
+          <entry key="project.open.time.7" value="9" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.9" value="6" />
+          <entry key="project.opened" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="controller" value="1" />
+          <entry key="cs" value="25" />
+          <entry key="gitignore" value="2" />
+          <entry key="mat" value="6" />
+          <entry key="prefab" value="2" />
+          <entry key="sln" value="1" />
+          <entry key="txt" value="3" />
+          <entry key="unity" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="25" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Solution File" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="19109" />
+          <entry key="txt" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="19109" />
+          <entry key="PLAIN_TEXT" value="126" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="OSMto3D" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/mapGeneration.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="253" column="104" lean-forward="true" selection-start-line="253" selection-start-column="104" selection-end-line="253" selection-end-column="104" />
+              <folding>
+                <marker date="1554220228786" expanded="false" signature="39:463" ph="..." />
+                <marker date="1554220228786" expanded="true" signature="573:41465" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="1122:1278" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="1354:1510" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="1594:2051" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="2181:16611" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="2873:16434" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="3234:4964" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="5010:5171" ph="/* All other object mapping follows the same form as this ^^^ ... */" />
+                <marker date="1554220228786" expanded="true" signature="5398:6807" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="7162:10099" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="7328:8528" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="8656:10052" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="10326:16290" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="10493:11843" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="11965:13364" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="13482:14797" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="14917:16243" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="16892:41463" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="18152:41457" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="18384:23880" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="19029:23833" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="22080:22564" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="22626:23306" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="24149:27668" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="24437:27621" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="27893:35322" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="28469:31697" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="30791:31013" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="31071:31267" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="31925:35275" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="32627:32973" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="33031:33377" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="34585:34807" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="34865:35061" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="35415:38459" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="35686:38412" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="37642:37865" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="37923:38120" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="38551:41447" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="38707:41400" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="40635:40857" ph="{...}" />
+                <marker date="1554220228786" expanded="true" signature="40915:41111" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Resources/bench D.mat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>0.001</find>
+      <find>MATERIAL</find>
+      <find>street</find>
+      <find>brick</find>
+      <find>scale</find>
+      <find>cube</find>
+      <find>node</find>
+      <find>resources.load</find>
+      <find>0</find>
+      <find>offset</find>
+      <find>resources</find>
+      <find>GameObject</find>
+      <find>var</find>
+      <find>road</find>
+      <find>First[&quot;tags&quot;].V</find>
+      <find>building</find>
+      <find>points</find>
+      <find>objectinfo</find>
+      <find>riverMapper</find>
+      <find>MEshRenderer</find>
+      <find>MeshRenderer</find>
+      <find>MeshCollider</find>
+      <find>meshRenderer</find>
+      <find>cursor</find>
+      <find>lock</find>
+      <find>highway</find>
+      <find>reta</find>
+      <find>assetDatabase</find>
+      <find>random</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MainMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RoadTool/Scripts/RoadMath.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectDetectionRay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RoadTool/Scripts/Road.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RoadTool/Editor/RoadTool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/mapGeneration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainMenuScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/mapGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Menu.cs" />
+        <option value="$PROJECT_DIR$/Assets/RoadTool/Editor/RoadTool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CyborgController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/ObjectDetectionRay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenuScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenuScript.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/mapGeneration.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2552" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="OSMto3D" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="OSMto3D" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="OSMto3D" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Bench" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="OSMto3D" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Bench" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Materials" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="OSMto3D" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Resources" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="OSMto3D" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="obj" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Packages" type="4e2708dd:PackagesRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/OSMto3D" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75af1365-717e-453e-a155-bc4524e23024" name="Default Changelist" comment="" />
+      <created>1541602913061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541602913061</updated>
+      <workItem from="1541602915479" duration="6670000" />
+      <workItem from="1541721193096" duration="5315000" />
+      <workItem from="1541796644167" duration="1426000" />
+      <workItem from="1541808463851" duration="417000" />
+      <workItem from="1542380473563" duration="2593000" />
+      <workItem from="1542387455566" duration="7396000" />
+      <workItem from="1542488534772" duration="5082000" />
+      <workItem from="1542548122621" duration="6455000" />
+      <workItem from="1542671173724" duration="8228000" />
+      <workItem from="1542719574091" duration="598000" />
+      <workItem from="1542738093772" duration="390000" />
+      <workItem from="1543701685006" duration="4936000" />
+      <workItem from="1544228979252" duration="769000" />
+      <workItem from="1544396328502" duration="3129000" />
+      <workItem from="1544531194904" duration="663000" />
+      <workItem from="1545069141208" duration="7097000" />
+      <workItem from="1545077152572" duration="3384000" />
+      <workItem from="1545090530722" duration="2883000" />
+      <workItem from="1549719873895" duration="1702000" />
+      <workItem from="1551707848650" duration="595000" />
+      <workItem from="1551715385460" duration="2166000" />
+      <workItem from="1551789811262" duration="5909000" />
+      <workItem from="1551975624458" duration="592000" />
+      <workItem from="1551994508267" duration="11462000" />
+      <workItem from="1552011073018" duration="1087000" />
+      <workItem from="1552012193967" duration="1622000" />
+      <workItem from="1553441811292" duration="5874000" />
+      <workItem from="1553459595734" duration="1831000" />
+      <workItem from="1553551950263" duration="1107000" />
+      <workItem from="1553560042201" duration="2496000" />
+      <workItem from="1553626454968" duration="1429000" />
+      <workItem from="1553646542779" duration="594000" />
+      <workItem from="1553650474966" duration="1052000" />
+      <workItem from="1553657907441" duration="837000" />
+      <workItem from="1553701578113" duration="5128000" />
+      <workItem from="1554197438519" duration="1179000" />
+      <workItem from="1554199048355" duration="3761000" />
+      <workItem from="1554202835180" duration="3766000" />
+      <workItem from="1554210331301" duration="8870000" />
+      <workItem from="1554220182651" duration="239000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added road generation through lineRenderer- will later be changed into road textures/models">
+      <created>1542493478987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542493478987</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Buildings now have levels">
+      <created>1542679184022</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542679184022</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="130782000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2552" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49941793" visible="true" weight="0.33635396" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.5005821" side_tool="true" weight="0.1363275" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49841017" weight="0.042121686" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49324325" visible="true" weight="0.21691974" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50158983" side_tool="true" weight="0.3299532" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added road generation through lineRenderer- will later be changed into road textures/models" />
+    <MESSAGE value="Buildings now have levels" />
+    <option name="LAST_COMMIT_MESSAGE" value="Buildings now have levels" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/mapGeneration.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Low Poly Buildings Lite/ReadMe.txt" />
+    <entry file="file://$PROJECT_DIR$/Assets/Low Poly Buildings Lite/Example Scene.unity" />
+    <entry file="file://$PROJECT_DIR$/Assets/Low Poly Buildings Lite/Prefabs/Suburb House Grey.prefab" />
+    <entry file="file://$PROJECT_DIR$/Assets/KajamansRoads/Materials/2RoadMat.mat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/KajamansRoads/Materials/GrassMat.mat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RoadTool/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/Trash.prefab">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/BrickTextures/Bricks Texture 01.mat" />
+    <entry file="file://$PROJECT_DIR$/Assets/RoadTool/Editor/RoadTool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/fenceMaterial.mat" />
+    <entry file="file://$PROJECT_DIR$/Assets/KajamansRoads/Materials/CornMat.mat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ObjectInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewBehaviourScript.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Menu.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MainMenuScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/FirstPersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1920">
+          <caret line="132" column="40" selection-start-line="132" selection-start-column="36" selection-end-line="132" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Standard Assets/Characters/FirstPersonCharacter/Scripts/MouseLook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="71" column="37" selection-start-line="71" selection-start-column="37" selection-end-line="71" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ObjectDetectionRay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/cybordController.controller">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OSMto3D.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CyborgController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/RoadTool/Scripts/Road.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="115" selection-start-line="115" selection-end-line="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RoadTool/Scripts/RoadMath.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainMenuScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/mapGeneration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="253" column="104" lean-forward="true" selection-start-line="253" selection-start-column="104" selection-end-line="253" selection-end-column="104" />
+          <folding>
+            <marker date="1554220228786" expanded="false" signature="39:463" ph="..." />
+            <marker date="1554220228786" expanded="true" signature="573:41465" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="1122:1278" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="1354:1510" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="1594:2051" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="2181:16611" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="2873:16434" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="3234:4964" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="5010:5171" ph="/* All other object mapping follows the same form as this ^^^ ... */" />
+            <marker date="1554220228786" expanded="true" signature="5398:6807" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="7162:10099" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="7328:8528" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="8656:10052" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="10326:16290" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="10493:11843" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="11965:13364" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="13482:14797" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="14917:16243" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="16892:41463" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="18152:41457" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="18384:23880" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="19029:23833" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="22080:22564" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="22626:23306" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="24149:27668" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="24437:27621" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="27893:35322" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="28469:31697" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="30791:31013" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="31071:31267" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="31925:35275" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="32627:32973" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="33031:33377" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="34585:34807" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="34865:35061" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="35415:38459" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="35686:38412" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="37642:37865" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="37923:38120" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="38551:41447" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="38707:41400" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="40635:40857" ph="{...}" />
+            <marker date="1554220228786" expanded="true" signature="40915:41111" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Resources/bench D.mat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
